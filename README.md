@@ -3,7 +3,7 @@ For interactive verion of the tool, please visit - https://cloudsolutions.academ
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=VpfIryYWFP4
 " target="_blank"><img src="http://img.youtube.com/vi/VpfIryYWFP4/0.jpg" 
-alt="" width="240" height="180" border="10" /></a>
+alt="" width="600" height="480" border="10" /></a>
 
 
 
