@@ -1,5 +1,5 @@
 **Compare** over 100+ cloud services from AWS, Azure and Google Cloud. 
-For interactive verion of the tool, please visit - https://cloudsolutions.academy/cloud-compare/
+For interactive version of the tool, please visit - https://cloudsolutions.academy/cloud-compare/
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=VpfIryYWFP4
 " target="_blank"><img src="http://img.youtube.com/vi/VpfIryYWFP4/0.jpg" 
