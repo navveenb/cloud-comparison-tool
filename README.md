@@ -1,6 +1,8 @@
 **Compare** over 100+ cloud services from AWS, Azure and Google Cloud. 
 For interactive verion of the tool, please visit - https://cloudsolutions.academy/cloud-compare/
 
+
+
 Product Category | Product Features | AWS | AZURE | GOOGLE CLOUD
 --- |  --- |  --- |  --- |  ---
 Application Development | Build and Deploy Scalable Apps | AWS Elastic Beanstalk | Azure Web Apps | App Engine
