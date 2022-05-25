@@ -1,5 +1,5 @@
-# cloud-comparison-tool
-Compare over 100+ cloud services from AWS, Azure and Google Cloud
+**Compare** over 100+ cloud services from AWS, Azure and Google Cloud. 
+For interactive verion of the tool, please visit - https://cloudsolutions.academy/cloud-compare/
 
 Product Category | Product Features | AWS | AZURE | GOOGLE CLOUD
 --- |  --- |  --- |  --- |  ---
