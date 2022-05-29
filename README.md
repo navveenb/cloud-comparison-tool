@@ -130,3 +130,5 @@ Security, Identity and Access | Create and manage cryptographic keys | AWS Key M
 Security, Identity and Access | Encrypt data in use (Confidential Computing) | AWS Nitro System (AWS Nitro Enclaves) | Azure Confidential Computing | Confidential Computing
 Security, Identity and Access | Hardware security module for storing keys/cryptographic | AWS CloudHSM | Azure Dedicated HSM | Cloud HSM
 Augmented reality (AR) / Virtual reality (VR) | Create  AR/VR applications | Amazon Sumerian | Azure Remote Rendering | ARCore
+
+Disclaimer - The information is provided on as-is basis. All trademarks are property of their respective owners. 
