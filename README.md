@@ -11,7 +11,7 @@ alt="" width="240" height="150" border="10" /></a>
 Product Category | Product Features | AWS | AZURE | GOOGLE CLOUD
 --- |  --- |  --- |  --- |  ---
 Application Development | Build and Deploy Scalable Apps | AWS Elastic Beanstalk | Azure Web Apps | App Engine
-Application Development | Develop and Deploy Mobile Apps | AWS Amplify | Azure Mobile Apps | Firerbase
+Application Development | Develop and Deploy Mobile Apps | AWS Amplify | Azure Mobile Apps | Firebase
 DevOps | CI/CD Pipeline  | AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy | Azure Pipelines  | Cloud Build, Google Cloud Deploy
 DevOps | Private Source Control Repository | AWS CodeCommit | Azure Repos | Cloud Source Repositories
 DevOps | Artifacts and Package management (maven, npm.. packages) | AWS CodeArtifact | Azure Artifacts | Artifact Registry 
@@ -76,13 +76,13 @@ Compute | Interruptible Virtual Machines | Amazon Elastic Compute Cloud Spot ins
 Compute | Dedicated server hosting | Dedicated Instances | Azure Dedicated Host | Sole-tenant nodes 
 Compute | Secured and Trusted VMs | AWS Nitro System | Azure DCsv2-Series VMs | Shielded VMs
 Compute | VMWare integration | VMware Cloud on AWS | Azure VMware Solution | Google Cloud VMware Engine
-Compute | Migrate Virtual Machines  (on-premises or cloud VMs) to required Cloud | AWS Application Migration Service | Azure Migrate | Migrate for Compute Engine
+Compute | Migrate Virtual Machines  (on-premises or cloud VMs) to required Cloud | AWS Application Migration Service | Azure Migrate | Migrate to Virtual Machines
 Compute | Quantum computing | Amazon Braket  | Azure Quantum | Google Quantum AI
 Compute | Auto scaling Virtual Machines | AWS EC2 Auto Scaling | Azure Autoscale | Managed instance groups
 Networking | Protect against web attacks | AWS Web Application Firewall (WAF) | Azure Web Application Firewall (WAF) | Cloud Armor
 Networking | Network Address Translation | NAT gateways  | Azure NAT | Cloud NAT
 Networking | Content Delivery Network | Amazon CloudFront | Azure Content Delivery Network | Cloud CDN
-Networking | Domain Name Registration and Configuration | Amazon Route 53 | Azure DNS | Cloud DNS
+Networking | Domain Name Registration and Configuration | Amazon Route 53 | Azure DNS | Cloud DNS, Google Domains
 Networking | Load Balancer for VMs | AWS Elastic Load Balancing | Azure Load Balancing | Cloud LoadBalancing
 Networking | Core virtual networking environment | Amazon Virtual Private Cloud (VPC) | Azure Virtual Network | Virtual Private Cloud (VPC)
 Networking | Service Mesh | AWS App Mesh | Service Fabric managed cluster, Azure Front Door | Traffic Director
@@ -94,16 +94,16 @@ Networking | Private network connectivity from on-premises network to Cloud | AW
 Networking | Single global network connectivity management for cloud and on-premises | Amazon CloudWAN | Azure Virtual WAN | Network Connectivity Center
 Networking | Firewall  | AWS Network Firewall | Azure Firewall | VPC firewall (rules and policy)
 Storage | Object storage | AWS Simple Storage Service (S3) | Azure Blob Storage | Cloud Storage
-Storage | File storage | Amazon Elastic File System (EFS) | Azure Files | FileStore
+Storage | File storage | Amazon Elastic File System (EFS) | Azure Files | Filestore
 Storage | Block storage | Amazon Elastic Block Store (EBS) | Azure managed disks | Persistent Disk, Local SSD
 Storage | Migration service from on-premises to cloud | AWS Storage Gateway | Azure Migrate | Storage Transfer Service
 Storage | Migration service from on-premises to cloud (using hardware appliance) | AWS Snowball | Azure Data Box | Transfer Appliance
 Storage | Archival storage for long term / low cost / infrequent access storage | Amazon S3 Glacier | Azure Archive Storage | Cloud Storage Archive
-Hybrid and Multi-Cloud | Hybrid and On-premises | Amazon ECS Anywhere, Amazon EKS Anywhere, AWS Outposts | Azure Arc | Anthos 
+Hybrid and Multi-Cloud | Hybrid and On-premises | Amazon ECS Anywhere, Amazon EKS Anywhere, AWS Outposts | Azure Arc | Anthos, Google Distributed Cloud 
 Hybrid and Multi-Cloud | Multi-Cloud support | None | Azure Arc (Azure Arc-enabled Kubernetes) | Anthos (Anthos Clusters on AWS and Azure)
 Hybrid and Multi-Cloud | Serverless on Multi-Cloud | None | None | Cloud Run for Anthos 
 Hybrid and Multi-Cloud | Service Mesh on Multi-Cloud | None | Azure Arc-enabled Open Service Mesh (Preview), Azure Policy for Kubernetes clusters | Anthos Service Mesh (Supported on AWS and Azure)
-Hybrid and Multi-Cloud | Migrate to Containers | AWS App2Container | Azure Migrate: App Containerization tool | Migrate for Anthos
+Hybrid and Multi-Cloud | Migrate to Containers | AWS App2Container | Azure Migrate: App Containerization tool | Migrate to Containers
 Hybrid and Multi-Cloud | GitOps - Central Config and Policy Management | EKS with Flux | Azure Arc-enabled Kubernetes cluster with Flux  | Anthos Config Management
 Sustainability | Carbon Footprint dashboard | Customer Carbon Footprint Tool | Emissions Impact Dashboard | Carbon Footprint
 Management and Operations | Log management | Amazon CloudWatch Logs | Azure Monitor Logs | Cloud Logging
@@ -114,11 +114,11 @@ Management and Operations | Debug applications | AWS X-Ray | Azure Application I
 Management and Operations | Certificate management | AWS Certificate Manager | Azure Active Directory Certificate Services | Certificate Authority Service
 Management and Operations | Cloud Dashboard | Management Console | Microsoft Azure portal | Cloud Console
 Management and Operations | Code profiler and recommendations | Amazon CodeGuru Profiler | Azure Application Insights Profiler | Cloud Profiler
-Management and Operations | Managed open source monitoring service | Amazon Managed Service for Prometheus | Container insights (with Prometheus integration) | Amazon Managed Service for Prometheus
-Management and Operations | Managed open source metrics, logs and visualization platform | Amazon Managed Grafana | Grafana by Grafana Labs (via Azure marketplace) | Grafana Cloud by Grafana Labs (via GCP marketplace)
+Management and Operations | Managed open source monitoring service | Amazon Managed Service for Prometheus | Container insights (with Prometheus integration) | Google Cloud Managed Service for Prometheus
+Management and Operations | Managed open source metrics, logs and visualization platform | Amazon Managed Grafana | Grafana by Grafana Labs (via Azure marketplace) | Grafana Cloud by Grafana Labs (via Google Cloud marketplace)
 Management and Operations | Browser accessible shell for resource management | AWS CloudShell | Cloud Shell | Cloud Shell
 Management and Operations | Command line tool and library for resource management | AWS CLI | Azure CLI | Cloud SDK
-Management and Operations | Billing and Cost management | AWS Billing and Cost Management | Azure Cost Management and Billing | 
+Management and Operations | Billing and Cost management | AWS Billing and Cost Management | Azure Cost Management and Billing | Cloud Billing
 Security, Identity and Access | Core Identity and Access management service | AWS Identity and Access Management (IAM) | Azure Identity Management | Identity and Access Management (IAM)
 Security, Identity and Access | Identify management service for applications | Amazon Cognito | Azure Active Directory B2C | Identity Platform
 Security, Identity and Access | Data loss prevention (DLP) | Amazon Macie | Azure Information Protection | Cloud Data Loss Prevention
